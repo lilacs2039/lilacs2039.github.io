@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技術メモ</title>
-    <link>https://lilacs2039.github.io/</link>
+    <link>https://lilacs2039.github.io/about/</link>
     <description>Recent content on 技術メモ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy; Copyright 2019 lilacs</copyright>
     
-	<atom:link href="https://lilacs2039.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lilacs2039.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
